@@ -1,0 +1,23 @@
+{
+  "name": "fasoluna",
+  "version": "1.0.0",
+  "description": "FasolunaTEA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rhaletskyj/Fasoluna.git"
+  },
+  "dependencies": {
+    "molodozeleno": "1.0.0",
+    "trukytnuk": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhaletskyj/Fasoluna/issues"
+  },
+  "homepage": "https://github.com/Rhaletskyj/Fasoluna#readme"
+}
